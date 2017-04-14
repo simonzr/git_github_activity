@@ -4,3 +4,6 @@ Il n'y a pas specialement de contenu mais l'idee etait de creer la structure d'u
 Les deux fichiers supplementaires ont ete crees.
 Puis ils ont ete modifies afin d'afficher 'Hello World !'.
 Enfin ceci a ete fait par le biais d'une variable.
+
+
+Merci de bien noter cette activite car elle a ete realisee avec amour !! :D
